@@ -1,0 +1,24 @@
+input[type="search"]{
+    border: none;
+}
+.logo-text{
+    font-size: 28px;
+    font-weight: bold;
+}
+header .nav-link{
+    color: rgb(64, 25, 100);
+}
+header .nav-link:hover, .nav-link:focus{
+    color: rgb(148, 22, 165);
+}
+header .nav-link:active{
+    color: #ff4ec4;
+}
+.plus-badge{
+    font-size: 10px;
+    padding: 10px 10px;
+    background: -webkit-linear-gradient(90deg,#41a8bf,#a044c1,#6f1fbf); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#41a8bf,#a044c1,#6f1fbf); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.border_head{
+    border: 2px solid rgb(68, 18, 97); 
+}
